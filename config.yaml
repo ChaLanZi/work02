@@ -1,0 +1,7 @@
+log: true
+db:
+  style: mysql
+  name: test
+  addr: 127.0.0.1:3306
+  username: root
+  password: 123456
